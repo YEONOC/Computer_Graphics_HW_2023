@@ -21,3 +21,13 @@
 - 과제 목표 : 
 
   해당 과제에서는 사용자의 입력에 반응하여 카메라를 조작하는 그래픽스 프로그램을 작성한다. GLFW의 콜백 함수와 ImGui를 사용하여 사용자 입력을 통해 카메라의 위치, 회전, 시야각을 바꾸는 방법을 익힌다.
+
+### 5. Hello Assimp
+- 과제 목표 : 
+
+  해당 과제에서는 Open Asset Import Library (Assimp)를 사용하여 여러 개의 모델을 불러와 여러 시점의 카메라로 렌더하는 프로그램을 작성한다.
+
+### 6. Phong Reflection Model
+- 과제 목표 : 
+
+  해당 과제에서는 Phong reflection model을 이용해 per-pixel 단위로 물체를 렌더링하는 프로그램을 작성한다. 프로그램 실행 중 각 물체의 쉐이딩 모드는 smooth shading이나 flat shading 중 하나로 선택할 수 있도록 한다.
